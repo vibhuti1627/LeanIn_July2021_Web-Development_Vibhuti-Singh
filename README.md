@@ -3,3 +3,7 @@
 
 # LeanIn_Milestone#2
 ![2021-07-24](https://user-images.githubusercontent.com/67824754/126861502-f99942f5-1a4b-4c30-aedf-fe90a7fc0db3.png)
+
+# LeanIn_Milestone#3
+![2021-08-17](https://user-images.githubusercontent.com/67824754/129764992-2e1a1da6-0f23-4ff4-aa88-8d802a3d7eaf.png)
+
